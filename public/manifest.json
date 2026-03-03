@@ -1,0 +1,16 @@
+{
+  "name": "Inner Peace Tracker",
+  "short_name": "Inner Peace",
+  "description": "Daily wellness and technique tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f6f2",
+  "theme_color": "#2d5a3d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
